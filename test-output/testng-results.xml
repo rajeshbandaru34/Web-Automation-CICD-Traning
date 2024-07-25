@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-24T15:15:00 IST" name="Suite" finished-at="2024-07-24T15:15:05 IST" duration-ms="4931">
+    <groups>
+    </groups>
+    <test started-at="2024-07-24T15:15:00 IST" name="Testone" finished-at="2024-07-24T15:15:02 IST" duration-ms="2665">
+      <class name="TestCases.TC_001">
+        <test-method is-config="true" signature="install()[pri:0, instance:TestCases.TC_001@4961f6af]" started-at="2024-07-24T15:15:00 IST" name="install" finished-at="2024-07-24T15:15:02 IST" duration-ms="1998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- install -->
+        <test-method signature="name()[pri:0, instance:TestCases.TC_001@4961f6af]" started-at="2024-07-24T15:15:02 IST" name="name" finished-at="2024-07-24T15:15:02 IST" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- TestCases.TC_001 -->
+    </test> <!-- Testone -->
+    <test started-at="2024-07-24T15:15:02 IST" name="Testtwo" finished-at="2024-07-24T15:15:05 IST" duration-ms="2222">
+      <class name="TestCases.TC_001">
+        <test-method is-config="true" signature="install()[pri:0, instance:TestCases.TC_001@610f7aa]" started-at="2024-07-24T15:15:02 IST" name="install" finished-at="2024-07-24T15:15:03 IST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- install -->
+        <test-method signature="name()[pri:0, instance:TestCases.TC_001@610f7aa]" started-at="2024-07-24T15:15:03 IST" name="name" finished-at="2024-07-24T15:15:04 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- TestCases.TC_001 -->
+      <class name="TestCases.TC_002">
+        <test-method signature="Login()[pri:1, instance:TestCases.TC_002@6a03bcb1]" started-at="2024-07-24T15:15:04 IST" name="Login" finished-at="2024-07-24T15:15:04 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Add_To_Cart()[pri:2, instance:TestCases.TC_002@6a03bcb1]" started-at="2024-07-24T15:15:04 IST" name="Add_To_Cart" finished-at="2024-07-24T15:15:05 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_To_Cart -->
+      </class> <!-- TestCases.TC_002 -->
+    </test> <!-- Testtwo -->
+  </suite> <!-- Suite -->
+</testng-results>
