@@ -29,7 +29,7 @@ public class TC_002 extends Baseone{
 		implicitlywait();
 		Click(elements.Finish_Button);
 		implicitlywait();
-		//Click(elements.Back_To_home);
+		//Click(elements.Back_To_home b);
 	}
 
 }
